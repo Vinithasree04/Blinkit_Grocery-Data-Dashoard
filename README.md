@@ -59,7 +59,7 @@ This project involves cleaning and transforming raw grocery sales data using **P
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 About me
 
 **A Vinitha Sree**  
 B.Tech Computer Science | Data Analyst Learner  
